@@ -1,5 +1,5 @@
 以下是Frank在DecisionMade移民频道关于**学签新政及八种人留学规划建议**的详细总结，涵盖政策变化与规划应对策略。
-
+- [跳转原视频](https://www.youtube.com/watch?v=I2VyM1X37es&t=7s)
 
 
 **一、学签新政的主要变化**

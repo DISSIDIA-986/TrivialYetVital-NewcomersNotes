@@ -1,4 +1,4 @@
-阿尔伯塔EOI新政及Frank的全面解读总结
+### [阿尔伯塔EOI新政及Frank的全面解读总结](https://www.youtube.com/watch?v=n7zBcZdP2sU&t=1520s)
 
 Frank在DecisionMade移民频道中详细分析了阿尔伯塔省的新EOI打分政策，提供了关键解读。以下是总结：
 
