@@ -1,0 +1,307 @@
+[
+  {
+    "endMs" : 1740,
+    "text" : " Thank you, we have somebody down the back.",
+    "startMs" : 0
+  },
+  {
+    "startMs" : 1740,
+    "endMs" : 2980,
+    "text" : " Hey, thank you very much."
+  },
+  {
+    "text" : " So Tim, I have three questions related to education.",
+    "startMs" : 2980,
+    "endMs" : 6460
+  },
+  {
+    "startMs" : 6460,
+    "text" : " Oh, you have to pay for more than one.",
+    "endMs" : 8540
+  },
+  {
+    "endMs" : 10100,
+    "startMs" : 8540,
+    "text" : " OK, perfect."
+  },
+  {
+    "endMs" : 11300,
+    "text" : " You can send me an invoice.",
+    "startMs" : 10100
+  },
+  {
+    "text" : " I'll pay.",
+    "endMs" : 12820,
+    "startMs" : 11300
+  },
+  {
+    "endMs" : 14500,
+    "text" : " So the three questions are, first of all,",
+    "startMs" : 12820
+  },
+  {
+    "endMs" : 18540,
+    "startMs" : 14500,
+    "text" : " I understand that if somebody has a bachelor's degree"
+  },
+  {
+    "text" : " from outside Canada, and they do a graduation here,",
+    "startMs" : 18540,
+    "endMs" : 21420
+  },
+  {
+    "text" : " or a post-secondary diploma, they",
+    "startMs" : 21420,
+    "endMs" : 23340
+  },
+  {
+    "endMs" : 25940,
+    "text" : " will only get the points for the post-secondary diploma",
+    "startMs" : 23340
+  },
+  {
+    "text" : " as the highest education inside Canada.",
+    "startMs" : 25940,
+    "endMs" : 28220
+  },
+  {
+    "startMs" : 28220,
+    "endMs" : 32260,
+    "text" : " And what if somebody completed education"
+  },
+  {
+    "endMs" : 35580,
+    "text" : " from a non-recognized college?",
+    "startMs" : 32260
+  },
+  {
+    "endMs" : 37860,
+    "startMs" : 35580,
+    "text" : " Now, they're not eligible for the drop,"
+  },
+  {
+    "startMs" : 37860,
+    "text" : " but they did a vest for their bachelors.",
+    "endMs" : 41260
+  },
+  {
+    "endMs" : 45180,
+    "startMs" : 41260,
+    "text" : " But would they get the points for the education from Canada,"
+  },
+  {
+    "startMs" : 45180,
+    "text" : " maybe from a non-recognized college, or not?",
+    "endMs" : 48660
+  },
+  {
+    "startMs" : 48660,
+    "endMs" : 50820,
+    "text" : " OK, I'll try to unpack that the best way I can."
+  },
+  {
+    "startMs" : 50820,
+    "text" : " So the individual needs to respond",
+    "endMs" : 54220
+  },
+  {
+    "startMs" : 54220,
+    "endMs" : 57300,
+    "text" : " with the highest level of education, period."
+  },
+  {
+    "startMs" : 57300,
+    "endMs" : 59820,
+    "text" : " So if the highest level of education"
+  },
+  {
+    "startMs" : 59820,
+    "endMs" : 61580,
+    "text" : " was earned outside of Canada, that's"
+  },
+  {
+    "endMs" : 65060,
+    "startMs" : 61580,
+    "text" : " the highest level of education they need to implement."
+  },
+  {
+    "startMs" : 65060,
+    "text" : " They can't claim the diploma and get points",
+    "endMs" : 70300
+  },
+  {
+    "endMs" : 72540,
+    "text" : " for completing it in Canada, because it's",
+    "startMs" : 70300
+  },
+  {
+    "endMs" : 76220,
+    "startMs" : 72540,
+    "text" : " a lower level than their highest level, ultimately."
+  },
+  {
+    "startMs" : 76220,
+    "text" : " So they need to be very much focused",
+    "endMs" : 77820
+  },
+  {
+    "startMs" : 77820,
+    "text" : " on what the highest level is.",
+    "endMs" : 79780
+  },
+  {
+    "endMs" : 81580,
+    "text" : " And if it was earned outside of Canada,",
+    "startMs" : 79780
+  },
+  {
+    "endMs" : 84940,
+    "startMs" : 81580,
+    "text" : " they need to be basing it on the educational credential"
+  },
+  {
+    "endMs" : 87020,
+    "text" : " assessment outcome.",
+    "startMs" : 84940
+  },
+  {
+    "startMs" : 87020,
+    "text" : " So that's the first part.",
+    "endMs" : 88060
+  },
+  {
+    "endMs" : 92100,
+    "startMs" : 88060,
+    "text" : " The other part I think I cut was asking about whether or not"
+  },
+  {
+    "text" : " we would consider institutions that are not",
+    "endMs" : 95500,
+    "startMs" : 92100
+  },
+  {
+    "text" : " considered recognized, whether in Canada or outside of Canada.",
+    "startMs" : 95500,
+    "endMs" : 98660
+  },
+  {
+    "endMs" : 99500,
+    "startMs" : 98660,
+    "text" : " And no, we won't."
+  },
+  {
+    "startMs" : 99500,
+    "endMs" : 101820,
+    "text" : " It has to be a recognized institution."
+  },
+  {
+    "text" : " So for purposes of the points grid,",
+    "endMs" : 104620,
+    "startMs" : 101820
+  },
+  {
+    "text" : " if it was completed in Canada, we",
+    "startMs" : 104620,
+    "endMs" : 106380
+  },
+  {
+    "endMs" : 108820,
+    "text" : " will accept a designated learning institution.",
+    "startMs" : 106380
+  },
+  {
+    "text" : " And that's been a growing question,",
+    "startMs" : 108820,
+    "endMs" : 110340
+  },
+  {
+    "text" : " so we will clarify that.",
+    "endMs" : 112020,
+    "startMs" : 110340
+  },
+  {
+    "endMs" : 114860,
+    "text" : " So that's not necessarily aligned",
+    "startMs" : 112020
+  },
+  {
+    "text" : " with some of our streams and pathways.",
+    "endMs" : 116740,
+    "startMs" : 114860
+  },
+  {
+    "startMs" : 116740,
+    "text" : " But for the purposes of claiming points,",
+    "endMs" : 118900
+  },
+  {
+    "startMs" : 118900,
+    "text" : " as long as it was on the list of Canadian designated learning",
+    "endMs" : 121380
+  },
+  {
+    "endMs" : 125220,
+    "startMs" : 121380,
+    "text" : " institutions, we'll accept that claim for points."
+  },
+  {
+    "text" : " Elsewhere, the institution has to be",
+    "startMs" : 125220,
+    "endMs" : 127220
+  },
+  {
+    "endMs" : 129940,
+    "startMs" : 127220,
+    "text" : " identified as recognized by the educational credential"
+  },
+  {
+    "startMs" : 129940,
+    "endMs" : 133820,
+    "text" : " assessment, and that designates an organization responsible"
+  },
+  {
+    "text" : " for issuing the educational credential assessment.",
+    "endMs" : 136660,
+    "startMs" : 133820
+  },
+  {
+    "startMs" : 136660,
+    "endMs" : 138380,
+    "text" : " And I'm sorry, they took the mic, but."
+  },
+  {
+    "startMs" : 138380,
+    "endMs" : 140220,
+    "text" : " Oh, can you get them back to the microphone?"
+  },
+  {
+    "endMs" : 142100,
+    "text" : " Yeah.",
+    "startMs" : 140220
+  },
+  {
+    "text" : " Oh, OK.",
+    "startMs" : 142100,
+    "endMs" : 143880
+  },
+  {
+    "text" : " It looks like I wasn't joking about having to pay for it.",
+    "startMs" : 143880,
+    "endMs" : 146300
+  },
+  {
+    "text" : " I would have to, I guess.",
+    "startMs" : 146300,
+    "endMs" : 147560
+  },
+  {
+    "text" : " We'll come back to you.",
+    "endMs" : 149160,
+    "startMs" : 147560
+  },
+  {
+    "text" : " There's a couple online as well now.",
+    "startMs" : 149160,
+    "endMs" : 150960
+  }
+]
